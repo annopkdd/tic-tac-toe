@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>27AC5CC9-3581-4C3A-9EBB-68AED147D70F</title>
+    <g id="App" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6.0---Profile" transform="translate(-318.000000, -740.000000)">
+            <g id="Menu-Bar" transform="translate(0.000000, 722.000000)">
+                <g id="Icons-/-20px-/-Profile-/-Normal" transform="translate(318.000000, 18.000000)">
+                    <rect id="Rectangle" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="20" height="20"></rect>
+                    <g id="Vector" transform="translate(1.000000, 0.500000)" stroke="#25B4CD" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M12,7.5 C12,9.15685416 10.6568542,10.5 9,10.5 C7.34314578,10.5 6,9.15685416 6,7.5 C6,5.84314578 7.34314578,4.5 9,4.5 C10.6568542,4.5 12,5.84314578 12,7.5 Z" id="Vector-41" stroke-width="1.9137931"></path>
+                        <path d="M11.5714283,0.5 L12.8571431,0.5 C15.6974641,0.5 18,2.8025357 18,5.6428574 L18,13.3571431 C18,16.1974641 15.6974641,18.5 12.8571431,18.5 L5.1428574,18.5 C2.3025357,18.5 0,16.1974641 0,13.3571431 L0,5.6428574 C0,2.8025357 2.3025357,0.5 5.1428574,0.5 L6.42857166,0.5 M1.28571429,16.6379313 C5.86055463,13.337484 12.1394454,13.337484 16.7142857,16.6379313 M5.1428574,0.5 L12,0.5" id="Vector-42" stroke-width="1.5"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

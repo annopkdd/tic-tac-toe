@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{379E5FFB-A0FD-4B85-A977-B2C0263E794C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="api-job-testing/Program.cs">
+    <Files>
+      <File FileName="api-job-testing/appsettings.json" />
+      <File FileName="api-job-testing/Program.cs" Line="21" Column="7" />
+      <File FileName="api-job-testing/Data/DataContext.cs" />
+      <File FileName="api-job-testing/Controllers/UserController.cs" />
+      <File FileName="api-job-testing/Models/User.cs" />
+      <File FileName="api-job-testing/Dto/UserDto.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="api-job-testing" expanded="True">
+            <Node name="api-job-testing" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Dto" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.api-job-testing PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

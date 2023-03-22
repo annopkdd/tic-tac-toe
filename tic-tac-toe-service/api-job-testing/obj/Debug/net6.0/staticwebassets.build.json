@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0Tw4+08Q0YiMNG/4CR1Uvt4SSYj3HRLC0CC1oSNWXPc=",
+  "Source": "api-job-testing",
+  "BasePath": "_content/api-job-testing",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
